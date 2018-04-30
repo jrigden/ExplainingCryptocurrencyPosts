@@ -10,7 +10,7 @@ description: "This is a comprehensive list of all active cryptocurrency and bloc
 
 *Last Update: April 30, 2018*
 
-[Altcoin Fool](http://www.altcoinfool.com/)
+##[Altcoin Fool](http://www.altcoinfool.com/)
 
 [B21 Block](https://www.b21block.com/)
 
