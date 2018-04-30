@@ -4,7 +4,9 @@ tags: ["Podcasts"]
 description: "This is a comprehensive list of all active cryptocurrency and blockchain podcasts. It is updated weekly and maintained by Jason Rigden.  "
 ---
 
-**[DM me](https://twitter.com/mr_rigden) or make a pull request to add a show. All podcast need to be audio and has an RSS feed.**
+**[DM me](https://twitter.com/mr_rigden) or make a [pull request](https://github.com/jrigden/ExplainingCryptocurrencyPosts/blob/master/list_of_cryptocurrency_podcasts.md
+) to add a show. All podcast need to be audio and has an RSS feed.**
+
 
 *Last Update: April 30, 2018*
 
