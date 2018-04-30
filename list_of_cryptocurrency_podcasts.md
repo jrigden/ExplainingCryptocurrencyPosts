@@ -1,5 +1,5 @@
 ---
-title: "A complete list of all active cryptocurrency and blockchain podcasts."
+title: "A Complete List of All Cryptocurrency and Blockchain Podcasts."
 tags: ["Podcasts"]
 description: "This is a comprehensive list of all active cryptocurrency and blockchain podcasts. It is updated weekly and maintained by Jason Rigden.  "
 ---
@@ -9,7 +9,9 @@ description: "This is a comprehensive list of all active cryptocurrency and bloc
 *Last Update: April 30, 2018*
 
 [Altcoin Fool](http://www.altcoinfool.com/)
+
 [B21 Block](https://www.b21block.com/)
+
 [The Bad Crypto](http://badcryptopodcast.com/)
 [Bitcoins & Cryptocurrency 101](http://bitcoinpodcast.org/)
 [Bitcoin and Markets](http://bitcoinandmarkets.com/)
