@@ -9,9 +9,7 @@ description: "This is a comprehensive list of all active cryptocurrency and bloc
 
 Podcasts on this list need to be primarily about cryptocurrency and blockchain. All podcast need to be audio and have an RSS feed. Podcasts behind a paywall are not included. The list is alphabetical order. Podcasts in the main list must have had a new episode within the last 30 days. A list of inactive podcasts can be found in a seperate section at the [bottom of this page.](#inactive-shows)
 
-
-
-
+## Active Cryptocurrency Podcasts
 *Last Update: April 30, 2018*
 
 [Altcoin Fool](http://www.altcoinfool.com/)
