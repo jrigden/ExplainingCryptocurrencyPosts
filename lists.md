@@ -1,5 +1,5 @@
 ---
-title: ":Lists of Cryptocurrency Resources"
+title: "Lists of Cryptocurrency Resources"
 tags: ["Meta"]
 date: "2018-04-30"
 description: "I've make a few lists of cryptocurrency resources."
