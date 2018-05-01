@@ -2,13 +2,13 @@
 title: "About"
 tags: ["Meta"]
 date: "2018-01-01"
-description: "This is a comprehensive list of all active cryptocurrency and blockchain podcasts. It is updated weekly and maintained by Jason Rigden.  "
+description: "This project will teach you about the fundamental concepts that make these technologies work. "
 ---
 
 Do you want to know more about the blockchain and cryptocurrency?<br>
 Not sure where to start? 
 
-This project will teach you about the fundamental concepts that make these technologies work. Explainingcryptocurrency.net is a project intended to educate the general public about the blockchain and cryptocurrency. You won't find any investing advice or trading recommendations here. Plenty of others are already doing that. What you will find here is honest and straight forward explanations of complex topics. You don't need to be a computer science major to understand the technology behind cryptocurrency.  
+Explainingcryptocurrency.net is a project intended to educate the general public about the blockchain and cryptocurrency. You won't find any investing advice or trading recommendations here. Plenty of others are already doing that. What you will find here is honest and straight forward explanations of complex topics. You don't need to be a computer science major to understand the technology behind cryptocurrency.  
 
  
 
