@@ -1,6 +1,7 @@
 ---
 title: "A Complete List of All Cryptocurrency and Blockchain Podcasts."
 tags: ["Podcasts"]
+date: "2018-04-29"
 description: "This is a comprehensive list of all active cryptocurrency and blockchain podcasts. It is updated weekly and maintained by Jason Rigden.  "
 ---
 
