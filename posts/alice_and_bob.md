@@ -4,6 +4,10 @@ tags: ["Podcast"]
 date: "2018-05-02"
 description: "The two of most famous people in cryptography."
 ---
+<amp-audio width="auto"
+  height="50"
+  src="https://traffic.libsyn.com/explainingcryptocurrency/001_explainingcrypto_currency.mp3">
+</amp-audio>
 **Intro**
 
 Hello my friends. You are listening to the very first episode of “Explaining Cryptocurrency”. I am Jason Rigden and I am your host. Thank you so much for listening.
