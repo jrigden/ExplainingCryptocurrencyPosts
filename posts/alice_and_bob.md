@@ -50,6 +50,7 @@ So, back to Alice and Bob and their cadre of associates. These imaginary charact
 It's funny how common tropes are in computer science. From Alice and Bob to Hello World to Foo Bar. There is an almost endless supply of these patterns. I wonder how long each one will last. And, what new ones are being created right now. I really doubt the originators of Alice and Bob had any idea there were creating a cultural touchstone. Yet here we are four decades later. Still talking about these imaginary people passing around secrets.
 
 **Outro**
+
 Well, that is the end of episode number 1. Thanks for listening. If you enjoyed this episode may I ask you for a favor. This is a brand new show and I would love to get topics ideas from my listeners. So please, if you would, send me some cryptocurrency topic that you would like me to talk about. My contact details are in the show notes. 
 
 Once again this has been Explaining Cryptocurrency and I am [Jason Rigden](https://twitter.com/mr_rigden). I hope to talk to you again soon. Good Bye.
