@@ -17,6 +17,7 @@ On this episode we will be talking about the two of  most famous people in crypt
 But first let me tell you about "LiveOverflow".
 
 **Interstitial**
+
 This is not an paid advertisement. I don’t do those on this show. But, I do recognize the power of interstitials to punctuate a podcast episode. I’ll going to be doing short little recommendations, like this, to enable this punctuation. Are you interested in hacking and reverse engineering? Do you want to know more about how computer programs really work? Well there is a really cool YouTube channel called "LiveOverflow" that you should check out. There will be a link in the show notes. "LiveOverflow" has a bunch of videos about analyzing disassemble programs, memory leaks, fuzzing, and other hacking topics. I really love this channel. If you are looking for a YouTube channel about hacking, then I highly recommend checking out "LiveOverflow". Once again there will be a link to the channel in the show notes.
 
 **Content**
@@ -52,10 +53,4 @@ It's funny how common tropes are in computer science. From Alice and Bob to Hell
 Well, that is the end of episode number 1. Thanks for listening. If you enjoyed this episode may I ask you for a favor. This is a brand new show and I would love to get topics ideas from my listeners. So please, if you would, send me some cryptocurrency topic that you would like me to talk about. My contact details are in the show notes. 
 
 Once again this has been Explaining Cryptocurrency and I am [Jason Rigden](https://twitter.com/mr_rigden). I hope to talk to you again soon. Good Bye.
-
-http://www.catonmat.net/blog/musical-geek-friday-alice-and-bob/
-
-
-
-[Youtube](https://www.youtube.com/c/MrRigdensChannel)
 
