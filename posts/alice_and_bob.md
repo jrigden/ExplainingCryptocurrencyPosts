@@ -2,7 +2,7 @@
 title: "Alice and Bob - Episode 001"
 tags: ["Podcast"]
 date: "2018-05-02"
-description: "Do you want to know more about the blockchain and cryptocurrency?"
+description: "The two of most famous people in cryptography."
 ---
 **Intro**
 
