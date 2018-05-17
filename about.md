@@ -1,13 +1,15 @@
 ---
-title: "About"
+title: "About this Podcast"
 tags: ["Meta"]
-date: "2018-04-30"
+date: "2018-04-01"
 description: "Do you want to know more about the blockchain and cryptocurrency?"
 ---
 
+Do you want to know more about the blockchain and cryptocurrency?
+
 Not sure where to start? 
 
-This project will teach you about the fundamental concepts that make these technologies work. Explainingcryptocurrency.net is a project intended to eucate the general public about the blockchain and cryptocurrency. You won't find any investing advice or trading recommendations here. Plenty of others are already doing that. What you will find here is honest and straight forward explanations of complex topics. You don't need to be a computer science major to understand the technology behind cryptocurrency.  
+This project will teach you about the fundamental concepts that make these technologies work. Explainingcryptocurrency.net is a project intended to educate the general public about the blockchain and cryptocurrency. You won't find any investing advice or trading recommendations here. Plenty of others are already doing that. What you will find here is honest and straight forward explanations of complex topics. You don't need to be a computer science major to understand the technology behind cryptocurrency.  
 
  
 
@@ -24,23 +26,4 @@ My personal goal in this project is to become known, liked, and trusted in the b
  
 
 I am pursuing this personal goal because I think it is the best investment that I can possibly make. Gaining a foothold in the community so early in its development will be enormously profitable in the future. Also, I am just a little bit obsessed with the topic. 
-
-## Contact Info 
-
-**Email:**<br>jason@explainingcryptocurrency.net 
-
-**Phone:**<br>425-835-2766 
-
-**Postal:**<br>Jason Rigden<br>PO BOX 858<br>Issaquah, Wa. 98027
-
-
-## Social
-
-[Twitter](https://twitter.com/mr_rigden)
-
-[Linkedin](https://www.linkedin.com/in/jasonrigden/)
-
-[Github](https://github.com/jrigden)
-
-[Youtube](https://www.youtube.com/c/MrRigdensChannel)
 

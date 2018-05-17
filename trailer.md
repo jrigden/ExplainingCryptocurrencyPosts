@@ -1,12 +1,18 @@
 ---
-title: "Introducing Explaining Cryptocurrency"
-date: 2018-04-26T10:53:21-07:00
-tags: []
+title: "The Trailer"
+description: "Introducing The Explaining Cryptocurrency Podcast"
+categories: ["Podcast"]
+date: "2018-04-26"
+author: "Jason Rigden"
+author_link: "https://twitter.com/mr_rigden"
 ---
-<amp-audio width="auto"
-  height="50"
-  src="https://traffic.libsyn.com/explainingcryptocurrency/000_Explaining_Cryptocurrency.mp3">
-</amp-audio>
+<div class="player">
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6527345/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>
+
+<p>
+<a href="/categories/podcast/">Subscribe to the Podast</a>
+</p>
 
 <p>
 Welcome to the Explaining Cryptocurrency podcast. I’m Jason Rigden and I’ll be your host. 

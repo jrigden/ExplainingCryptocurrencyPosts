@@ -1,13 +1,21 @@
 ---
-title: "Alice and Bob - Episode 001"
-tags: ["Podcast"]
-date: "2018-05-02"
+title: "Why is Cryptocurrency Obsessed with Alice and Bob?"
 description: "The two of most famous people in cryptography."
+tags: ["History", "Cryptography"]
+categories: ["Podcast"]
+date: "2018-05-02"
+author: "Jason Rigden"
+author_link: "https://twitter.com/mr_rigden"
 ---
-<amp-audio width="auto"
-  height="50"
-  src="https://traffic.libsyn.com/explainingcryptocurrency/001_explainingcrypto_currency.mp3">
-</amp-audio>
+<div class="player">
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6549971/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>
+
+<p>
+<a href="/categories/podcast/">Subscribe to the Podast</a>
+</p>
+
+
 **Intro**
 
 Hello my friends. You are listening to the very first episode of “Explaining Cryptocurrency”. I am Jason Rigden and I am your host. Thank you so much for listening.
